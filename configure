@@ -3356,7 +3356,7 @@ if test "${enable_threading+set}" = set; then :
 fi
 
 
-
+use_pthreads=no
 
 if test "x$enable_threading" != "xno" ; then :
 
